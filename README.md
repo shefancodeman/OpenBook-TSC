@@ -1,22 +1,22 @@
 # TSC Openbook
  Un eBook reader format din PCB, carcasa, baterie si display, creat in AutoDesk Fusion. Fiecare component e asezat pe pcb pentru a intra corespunzator in carcasa.  
 PCB-ul include:
-Battery Charge Level
-E-Paper Display Header
-E-Paper Drive Circuit
-Environmental Sensor BME688
-EPD Power
-ESP32 C6
-External NOR Flash 64MB
-LDO Voltage Regulator
-Li-Po Battery Charging Controller
-Qwiic / Stemma QT
-RTC Module DS3231SN
-SD Card
-SPI ESD Protection Lines
-Test Pads
-USB C connector & ESD protection
-Voltage Supervisor + Reset & Boot / IO Button
+- Battery Charge Level  
+- E-Paper Display Header  
+- E-Paper Drive Circuit  
+- Environmental Sensor BME688  
+- EPD Power  
+- ESP32 C6  
+- External NOR Flash 64MB  
+- LDO Voltage Regulator  
+- Li-Po Battery Charging Controller  
+- Qwiic / Stemma QT  
+- RTC Module DS3231SN  
+- SD Card  
+- SPI ESD Protection Lines  
+- Test Pads  
+- USB C connector & ESD protection  
+- Voltage Supervisor + Reset & Boot / IO Button  
 
 ## BOM
 | Component                     | Websites                                                                                                   | Datasheet                                                                                                    |
