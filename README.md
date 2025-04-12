@@ -1,5 +1,5 @@
 # TSC Openbook
- Un eBook reader format din PCB, carcasa, baterie si display, creat in AutoDesk Fusion. Fiecare component e asezat pe pcb pentru a intra corespunzator in carcasa.
+ Un eBook reader format din PCB, carcasa, baterie si display, creat in AutoDesk Fusion. Fiecare component e asezat pe pcb pentru a intra corespunzator in carcasa.  
 PCB-ul include:
 Battery Charge Level
 E-Paper Display Header
